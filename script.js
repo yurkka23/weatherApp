@@ -7,7 +7,7 @@ const form = document.getElementById("form");
 const close = document.getElementById("close");
 
 let store = {
-  city: "Minsk",
+  city: "Lviv",
   temperature: 0,
   observationTime: "00:00 AM",
   isDay: "yes",
